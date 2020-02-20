@@ -31,6 +31,8 @@
 	<string>APPL</string>
 	<key>CFBundleSignature</key>
 	<string>Mtµt</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>Please give MailtoMutt access to iTerm via Apple Script.</string>
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
